@@ -11,15 +11,13 @@ Coming soon...
 ---
 
 ## Project Goal
-
-The goal of this project is to build a modern, secure, and scalable attendance system using QR codes with anti-cheating mechanisms.
+The goal of this project is to build a modern, secure, and scalable attendance system using QR codes with anti-cheating mechanisms. 
 
 This project is designed as a portfolio-ready full-stack application.
 
 ---
 
 ## Features (MVP)
-
 - User authentication (Teacher / Student)
 - Create classes
 - Start attendance sessions
@@ -32,30 +30,28 @@ This project is designed as a portfolio-ready full-stack application.
 ---
 
 ## Tech Stack
-
-Frontend:
+**Frontend:**
 - Next.js
 - Tailwind CSS
 - TypeScript
 - PWA configuration
 
-Backend:
+**Backend:**
 - Next.js API Routes (or NestJS in future versions)
 
-Database:
+**Database:**
 - Supabase (PostgreSQL)
 
-Authentication:
+**Authentication:**
 - Supabase Auth
 
-Deployment:
+**Deployment:**
 - Vercel (Frontend)
 - Supabase (Database)
 
 ---
 
 ## Architecture Overview
-
 - PWA installable from browser
 - Dynamic QR tokens with expiration
 - Role-based access control
@@ -64,3 +60,5 @@ Deployment:
 
 ---
 
+## Project Structure
+`# smart-attendance-pwa`
